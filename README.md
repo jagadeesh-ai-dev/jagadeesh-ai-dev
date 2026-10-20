@@ -1,4 +1,4 @@
-# Hi, I'm Jagadeesh 👋
+# Hi, I'm Jagadeesh Kumar Reddy👋
 
 **Software Engineer · .NET & Backend Development · AI-Powered Applications**
 
