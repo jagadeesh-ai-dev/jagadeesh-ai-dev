@@ -1,40 +1,38 @@
-# Hi, I'm Jagadeesh Kumar Reddy👋
+# Jagadeesh Kumar Reddy
 
-**Software Engineer · .NET & Backend Development · AI-Powered Applications**
+**Software Engineer · .NET Backend · AI & Full-Stack Projects**
 
-I build practical software with a focus on maintainable code, reliable APIs, and useful user experiences. My core interests are C#/.NET development, databases, cloud engineering, and applying AI to real-world workflows.
+I build practical software—from backend services in C#/.NET to web applications and AI-focused experiments. I care about clear architecture, useful product experiences, and learning by shipping real projects.
 
-## Tech I Work With
+## Focus Areas
 
-- **Languages:** C#
-- **Backend:** .NET, ASP.NET Core, REST APIs
+- **Backend:** C#, .NET, ASP.NET Core, REST APIs
 - **Data:** SQL Server, Entity Framework Core
-- **Tools:** Git, GitHub, Visual Studio
-- **Exploring:** Cloud engineering, AI agents, and workflow automation
+- **Frontend:** React, TypeScript, Vite, Tailwind CSS
+- **Exploring:** Cloud engineering, AI applications, agents, and workflow automation
 
-## Selected Projects
+## Featured Work
 
-### [TaskTrackerCLI](https://github.com/jagadeesh-ai-dev/TaskTrackerCLI)
-A .NET 8 command-line task manager with task CRUD, status tracking, filtering, sorting, searching, and JSON persistence.
+| Project | What it demonstrates |
+| --- | --- |
+| [TaskTrackerCLI](https://github.com/jagadeesh-ai-dev/TaskTrackerCLI) | A .NET 8 command-line task manager with JSON persistence, filtering, sorting, and search |
+| [Gadgetverse](https://github.com/jagadeesh-ai-dev/gadgetverse-showcase) | A gadget storefront interface with product search, filtering, sorting, quick view, and wishlist-related flows |
+| [SnapSaver](https://github.com/jagadeesh-ai-dev/snap-saver-by-jagadeesh) | A social-video downloader interface concept built with React and TypeScript |
+| [Jagadeesh AI Flux](https://github.com/jagadeesh-ai-dev/jagadeesh-ai-flux) | A portfolio-style web project with about, projects, skills, résumé, and contact sections |
+| [Snake Kingdom](https://github.com/jagadeesh-ai-dev/snake-kingdom-by-jagadeesh) | A browser game project with player profiles, leaderboards, tournaments, and social routes |
 
-**Stack:** C# · .NET 8 · System.Text.Json
+## What I'm Building Toward
 
-### [Snake Kingdom](https://github.com/jagadeesh-ai-dev/snake-kingdom-by-jagadeesh)
-A browser-based snake game project with multiplayer-oriented features and player progression.
-
-**Stack:** React · TypeScript · Vite · Tailwind CSS
-
-## Current Focus
-
-- Strengthening backend design, testing, and performance skills
-- Building production-minded .NET applications and APIs
-- Developing practical cloud and AI-powered projects
-- Learning by shipping projects and improving them iteratively
+- Better backend architecture, testing, and performance
+- Reliable APIs and cloud-ready applications
+- Useful AI integrations and workflow automation
+- Polished web products that solve real user problems
 
 ## Connect
 
 - [GitHub](https://github.com/jagadeesh-ai-dev)
+- [LinkedIn](https://www.linkedin.com/) — replace with your personal profile URL
 
 ---
 
-*Build useful things. Keep learning. Improve with every iteration.*
+*Build with purpose. Keep it maintainable. Improve through iteration.*
