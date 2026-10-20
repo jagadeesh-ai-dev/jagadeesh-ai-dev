@@ -31,7 +31,6 @@ I build practical software—from backend services in C#/.NET to web application
 ## Connect
 
 - [GitHub](https://github.com/jagadeesh-ai-dev)
-- [LinkedIn](https://www.linkedin.com/) — replace with your personal profile URL
 
 ---
 
